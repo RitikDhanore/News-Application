@@ -1,0 +1,17 @@
+.news-app{
+    display: flex;
+    justify-content: center;
+}
+
+.news-item{
+    width: 500px;
+    padding: 20px;
+    border: 0.3px solid rgb(160, 160, 230);
+    border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: 20px;
+}
+
+.news-img{
+    width: 400px;
+}
